@@ -1,5 +1,5 @@
 {% set name = "jacobi" %}
-{% set version = "0.8.1" %}
+{% set version = "0.9.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/jacobi-{{ version }}.tar.gz
-  sha256: 6c12846157017c22d1bf0334d14a483f369bc80ecc206af4652ac2a23ef5607d
+  sha256: a5bda7f4ef32e94ce6b71ff9e8cfeedd3a092c98ab767f05f8d009068cfc6fa7
 
 build:
   noarch: python
