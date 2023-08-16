@@ -1,11 +1,11 @@
-About jacobi
-============
+About jacobi-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jacobi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/hdembinski/jacobi
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jacobi-feedstock/blob/main/LICENSE.txt)
 
 Summary: Compute numerical derivatives.
 
